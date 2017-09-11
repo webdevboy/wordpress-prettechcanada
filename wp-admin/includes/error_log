@@ -1,0 +1,4 @@
+[23-Aug-2016 11:07:26 America/Denver] PHP Fatal error:  Class 'WP_Filesystem_Base' not found in /home2/tasteol3/public_html/prettechcanada/wp-admin/includes/class-wp-filesystem-ftpext.php on line 17
+[23-Aug-2016 11:08:18 America/Denver] PHP Fatal error:  Class 'WP_Filesystem_Base' not found in /home2/tasteol3/public_html/prettechcanada/wp-admin/includes/class-wp-filesystem-ftpext.php on line 17
+[31-Dec-2016 17:35:09 America/Denver] PHP Fatal error:  Class 'WP_Filesystem_Base' not found in /home2/tasteol3/public_html/prettechcanada/wp-admin/includes/class-wp-filesystem-ftpext.php on line 17
+[31-Dec-2016 17:35:33 America/Denver] PHP Fatal error:  Class 'WP_Filesystem_Base' not found in /home2/tasteol3/public_html/prettechcanada/wp-admin/includes/class-wp-filesystem-ftpext.php on line 17

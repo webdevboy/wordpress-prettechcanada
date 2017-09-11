@@ -1,0 +1,56 @@
+[12-Oct-2015 21:10:03 UTC] PHP Warning:  implode(): Invalid arguments passed in /home2/tasteol3/public_html/prettechcanada/wp-content/plugins/wp-super-cache/wp-cache.php on line 3085
+[20-Oct-2015 13:43:57 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home2/tasteol3/public_html/prettechcanada/wp-admin/includes/translation-install.php on line 59
+[21-Oct-2015 17:06:53 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home2/tasteol3/public_html/prettechcanada/wp-includes/update.php on line 302
+[08-Mar-2016 16:24:34 UTC] deactivate license response Array
+(
+    [headers] => Array
+        (
+            [date] => Tue, 08 Mar 2016 16:24:32 GMT
+            [server] => Apache
+            [vary] => Cookie,User-Agent
+            [expires] => Thu, 19 Nov 1981 08:52:00 GMT
+            [cache-control] => no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+            [pragma] => no-cache
+            [set-cookie] => PHPSESSID=b48e72c37b7d3993d6fc92d27e6566a1; path=/
+            [connection] => close
+            [content-type] => application/json
+        )
+
+    [body] => {"success":true,"license":"deactivated","item_name":"Duplicator Pro","expires":"2016-08-16 10:56:09","payment_id":"2965","customer_name":"Dustin Rennie ","customer_email":"dustin@ddmktg.ca"}
+    [response] => Array
+        (
+            [code] => 200
+            [message] => OK
+        )
+
+    [cookies] => Array
+        (
+            [0] => WP_Http_Cookie Object
+                (
+                    [name] => PHPSESSID
+                    [value] => b48e72c37b7d3993d6fc92d27e6566a1
+                    [expires] => 
+                    [path] => /
+                    [domain] => snapcreek.com
+                )
+
+        )
+
+    [filename] => 
+)
+
+[08-Mar-2016 16:24:34 UTC] After deactivating license key license_data=stdClass Object
+(
+    [success] => 1
+    [license] => deactivated
+    [item_name] => Duplicator Pro
+    [expires] => 2016-08-16 10:56:09
+    [payment_id] => 2965
+    [customer_name] => Dustin Rennie 
+    [customer_email] => dustin@ddmktg.ca
+)
+
+[17-Mar-2016 03:16:05 UTC] PHP Warning:  Missing argument 3 for add_user_meta(), called in /home2/tasteol3/public_html/prettechcanada/wp-content/plugins/caldera-forms/classes/admin.php on line 326 and defined in /home2/tasteol3/public_html/prettechcanada/wp-includes/user.php on line 669
+[17-Mar-2016 04:01:17 UTC] PHP Warning:  implode(): Invalid arguments passed in /home2/tasteol3/public_html/prettechcanada/wp-content/plugins/wp-super-cache/wp-cache.php on line 3088
+[04-Apr-2016 17:39:31 UTC] PHP Warning:  implode(): Invalid arguments passed in /home2/tasteol3/public_html/prettechcanada/wp-content/plugins/wp-super-cache/wp-cache.php on line 3088
+[17-Dec-2016 18:41:02 UTC] WordPress database error Lost connection to MySQL server during query for query SELECT option_value FROM wp_options WHERE option_name = 'wpmudev_apikey' LIMIT 1 made by do_action('admin_init'), call_user_func_array, WpSmush->admin_init, WpSmush->initialise, WpSmush->validate_install, WpSmush->_get_api_key, get_site_option, get_network_option, get_option
